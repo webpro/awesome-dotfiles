@@ -44,4 +44,9 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 * [dotfiles.org](http://dotfiles.org/) - dotfiles.org is a place to upload, download, and share your dotfiles.
-* [OSX Defaults](https://github.com/kevinSuttle/OSXDefaults) - A centralized place for the awesome work started by @mathiasbynens on .osx
+* [OS X Defaults](https://github.com/kevinSuttle/OSXDefaults) - A centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
+
+## Related Lists
+
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
