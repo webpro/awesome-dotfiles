@@ -14,13 +14,15 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 A small collection of popular, well-maintained, and collaborative dotfiles repositories.
 
-Title | Description | Note
+Title | Description | Focus
 :--|:--|:--
 [holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [Mathias’s dotfiles](http://mths.be/dotfiles) | .files, including ~/.osx — sensible hacker defaults for OS X | Lots of goodness here, great collaborative community effort.
-[YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Focus on homebrew, zsh, git, vim, and more. Active repository.
-[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files | Focus on zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
-[Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | It can be installed from npm, and has a focus on ZSH, Node.js, Ruby and OSX defaults.
+[YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
+[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
+[Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
+[Bashstrap](https://github.com/barryclark/bashstrap) | Bootstrap for your terminal. A quick way to spruce up OSX terminal. | OS X Terminal, prompt, iTerm.
+[Bash it](https://github.com/revans/bash-it) | A community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
 
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
