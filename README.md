@@ -36,9 +36,14 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.([post](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/))
 * [homeshick](https://github.com/andsens/homeshick) - git dotfile synchronizer written in bash
+* [Bork](https://github.com/mattly/bork) - a bash DSL for config management
 * [fresh](http://freshshell.com/) - Keep your dot files fresh. fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 * [GNU Stow](http://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
+
+### OS X
+
+* [dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 
 ## Misc.
 
