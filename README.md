@@ -9,6 +9,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 * [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449)
 * [Dotfile discovery](http://wynnnetherland.com/journal/dotfiles-discovery)
+* [Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config](http://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config)
 
 ## Dotfiles repos
 
