@@ -36,7 +36,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 ## Dotfiles repos
 
-A small collection of popular, well-maintained, and collaborative dotfiles repositories.
+A collection of the most popular, well-maintained, and collaborative dotfiles repositories.
 
 Title | Description | Focus
 :--|:--|:--
@@ -47,6 +47,7 @@ Title | Description | Focus
 [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
 [Bashstrap](https://github.com/barryclark/bashstrap) | Bootstrap for your terminal. A quick way to spruce up OSX terminal. | OS X Terminal, prompt, iTerm.
 [Bash it](https://github.com/revans/bash-it) | A community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
+[Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux, by Square vimsters. | Vim, tmux. Built for Mac OS X.
 
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
