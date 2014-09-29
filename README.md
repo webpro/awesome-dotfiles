@@ -59,6 +59,8 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## Tools
 
+* [Ansible](http://www.ansible.com/home) - Ansible is a radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+* [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible
 * [Bork](https://github.com/mattly/bork) - a bash DSL for config management
 * [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles
 * [fresh](http://freshshell.com/) - Keep your dot files fresh. fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
@@ -73,6 +75,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 * [dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 * [kody](https://github.com/jh3y/kody) - A .files runner/manager written in node
+* [osxc](http://osxc.github.io/) - osxc is mainly a set of playbook roles made for OS X configuration
 
 ## Misc.
 
