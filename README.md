@@ -36,18 +36,27 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 ## Dotfiles repos
 
-A collection of the most popular, well-maintained, and collaborative dotfiles repositories.
+A collection of the most popular, well-maintained, and collaborative dotfiles repositories & frameworks.
+
+### Bash
 
 Title | Description | Focus
 :--|:--|:--
-[holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
-[Mathias’s dotfiles](http://mths.be/dotfiles) | .files, including ~/.osx — sensible hacker defaults for OS X | Lots of goodness here, great collaborative community effort.
-[YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
-[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
-[Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
 [Bashstrap](https://github.com/barryclark/bashstrap) | Bootstrap for your terminal. A quick way to spruce up OSX terminal. | OS X Terminal, prompt, iTerm.
 [Bash it](https://github.com/revans/bash-it) | A community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
+[Mathias’s dotfiles](http://mths.be/dotfiles) | .files, including ~/.osx — sensible hacker defaults for OS X | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux, by Square vimsters. | Vim, tmux. Built for Mac OS X.
+
+### Zsh
+
+Title | Description | Focus
+:--|:--|:--
+[Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
+[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
+[holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
+[oh-my-zsh](http://ohmyz.sh/) | A community-driven framework for managing your zsh configuration. | Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool.
+[Prezto](https://github.com/sorin-ionescu/prezto) | Prezto is the configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+[YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
 
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
@@ -60,6 +69,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 ## Tools
 
 * [Ansible](http://www.ansible.com/home) - Ansible is a radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+* [antigen](http://antigen.sharats.me/) - Plugin manager for zsh, inspired by oh-my-zsh and vundle. Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
 * [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible
 * [Bork](https://github.com/mattly/bork) - a bash DSL for config management
 * [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles
@@ -71,18 +81,6 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [Super User Stone](https://github.com/NorfairKing/super-user-stone) - SUS manages the deployment of your configuration files (dotfiles)  ([post](http://blog.cs-syd.eu/super-user-stone/)).
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME
 
-## Frameworks
-There are several frameworks that make it easier to customize your shell environment.
-
-### Bash
-* [bash-it](https://github.com/revans/bash-it) - Inspired by Robby Russell's [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for ZSH, this includes autocompletion, themes and other customizations.
-
-### ZSH
-* [antigen](http://antigen.sharats.me/) - A plugin manager for zsh, inspired by oh-my-zsh and vundle. Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup.
-* [antigen-hs](https://github.com/Tarrasch/antigen-hs) An antigen-inspired zsh plugin manager that tries to do work statically and only on manual invocation, minimizing the zsh startup time. Antigen-hs is much more minimalistic and convention over configuration than antigen.
-* [dotzsh](https://github.com/dotphiles/dotzsh) dotzsh strives to be platform and version independent, some functionality may be lost when running under older versions of zsh, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OS's without problems.
-* [oh-my-zsh](https://ohmyz.sh) - A community-driven framework for managing your zsh configuration. Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-* [prezto](https://github.com/sorin-ionescu/prezto) - Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
 ### OS X
 
