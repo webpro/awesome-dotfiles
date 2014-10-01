@@ -36,7 +36,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 ## Dotfiles repos
 
-A collection of the most popular, well-maintained, and collaborative dotfiles repositories & frameworks.
+A collection of the most popular, well-maintained, and collaborative dotfiles repositories & frameworks. Some projects contain just the dotfiles. Others go further by allowing you to easily add your own custom dotfiles, and/or including scripts to manage dotfiles/plugins.
 
 ### Bash
 
@@ -51,12 +51,13 @@ Title | Description | Focus
 
 Title | Description | Focus
 :--|:--|:--
-[Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
 [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
-[holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [oh-my-zsh](http://ohmyz.sh/) | Community-driven framework for managing your zsh configuration. | Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool.
 [Prezto](https://github.com/sorin-ionescu/prezto) | Prezto is the configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 [YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
+[holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
+[antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
+[Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
 
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
@@ -69,7 +70,6 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 ## Tools
 
 * [Ansible](http://www.ansible.com/home) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
-* [antigen](http://antigen.sharats.me/) - Plugin manager for zsh, inspired by oh-my-zsh and vundle. Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
 * [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles
