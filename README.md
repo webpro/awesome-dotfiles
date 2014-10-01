@@ -71,6 +71,19 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [Super User Stone](https://github.com/NorfairKing/super-user-stone) - SUS manages the deployment of your configuration files (dotfiles)  ([post](http://blog.cs-syd.eu/super-user-stone/)).
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME
 
+## Frameworks
+There are several frameworks that make it easier to customize your shell environment.
+
+### Bash
+* [bash-it](https://github.com/revans/bash-it) - Inspired by Robby Russell's [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for ZSH, this includes autocompletion, themes and other customizations.
+
+### ZSH
+* [antigen](http://antigen.sharats.me/) - A plugin manager for zsh, inspired by oh-my-zsh and vundle. Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup.
+* [antigen-hs](https://github.com/Tarrasch/antigen-hs) An antigen-inspired zsh plugin manager that tries to do work statically and only on manual invocation, minimizing the zsh startup time. Antigen-hs is much more minimalistic and convention over configuration than antigen.
+* [dotzsh](https://github.com/dotphiles/dotzsh) dotzsh strives to be platform and version independent, some functionality may be lost when running under older versions of zsh, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OS's without problems.
+* [oh-my-zsh](https://ohmyz.sh) - A community-driven framework for managing your zsh configuration. Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [prezto](https://github.com/sorin-ionescu/prezto) - Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+
 ### OS X
 
 * [dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
