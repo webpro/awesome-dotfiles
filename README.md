@@ -81,14 +81,13 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [Super User Stone](https://github.com/NorfairKing/super-user-stone) - SUS manages the deployment of your configuration files (dotfiles)  ([post](http://blog.cs-syd.eu/super-user-stone/)).
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME
 
-
 ### OS X
 
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
 * [kody](https://github.com/jh3y/kody) - Dotfiles runner/manager written in node
 * [osxc](http://osxc.github.io/) - Set of playbook roles made for OS X configuration
 
-## Misc.
+## Miscellaneous
 
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 * [dotfiles.org](http://dotfiles.org/) - dotfiles.org is a place to upload, download, and share your dotfiles.
