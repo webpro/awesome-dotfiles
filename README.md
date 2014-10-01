@@ -43,7 +43,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 Title | Description | Focus
 :--|:--|:--
 [Bashstrap](https://github.com/barryclark/bashstrap) | Bootstrap for your terminal. A quick way to spruce up OSX terminal. | OS X Terminal, prompt, iTerm.
-[Bash it](https://github.com/revans/bash-it) | A community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
+[Bash it](https://github.com/revans/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
 [Mathias’s dotfiles](http://mths.be/dotfiles) | .files, including ~/.osx — sensible hacker defaults for OS X | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux, by Square vimsters. | Vim, tmux. Built for Mac OS X.
 
@@ -52,9 +52,9 @@ Title | Description | Focus
 Title | Description | Focus
 :--|:--|:--
 [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
-[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
+[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
 [holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
-[oh-my-zsh](http://ohmyz.sh/) | A community-driven framework for managing your zsh configuration. | Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool.
+[oh-my-zsh](http://ohmyz.sh/) | Community-driven framework for managing your zsh configuration. | Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool.
 [Prezto](https://github.com/sorin-ionescu/prezto) | Prezto is the configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 [YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
 
@@ -68,14 +68,14 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## Tools
 
-* [Ansible](http://www.ansible.com/home) - Ansible is a radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+* [Ansible](http://www.ansible.com/home) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [antigen](http://antigen.sharats.me/) - Plugin manager for zsh, inspired by oh-my-zsh and vundle. Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
 * [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible
-* [Bork](https://github.com/mattly/bork) - a bash DSL for config management
-* [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles
+* [Bork](https://github.com/mattly/bork) - Bash DSL for config management
+* [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles
 * [fresh](http://freshshell.com/) - Keep your dot files fresh. fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [GNU Stow](http://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
-* [homeshick](https://github.com/andsens/homeshick) - git dotfile synchronizer written in bash
+* [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in bash
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([post](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 * [Super User Stone](https://github.com/NorfairKing/super-user-stone) - SUS manages the deployment of your configuration files (dotfiles)  ([post](http://blog.cs-syd.eu/super-user-stone/)).
@@ -84,17 +84,17 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ### OS X
 
-* [dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
-* [kody](https://github.com/jh3y/kody) - A .files runner/manager written in node
-* [osxc](http://osxc.github.io/) - osxc is mainly a set of playbook roles made for OS X configuration
+* [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
+* [kody](https://github.com/jh3y/kody) - Dotfiles runner/manager written in node
+* [osxc](http://osxc.github.io/) - Set of playbook roles made for OS X configuration
 
 ## Misc.
 
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 * [dotfiles.org](http://dotfiles.org/) - dotfiles.org is a place to upload, download, and share your dotfiles.
-* [OS X Defaults](https://github.com/kevinSuttle/OSXDefaults) - A centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
+* [OS X Defaults](https://github.com/kevinSuttle/OSXDefaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
 
 ## Related Lists
 
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
