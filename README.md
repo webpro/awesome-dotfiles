@@ -77,6 +77,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [GNU Stow](http://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in bash
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([post](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
+* [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 * [Super User Stone](https://github.com/NorfairKing/super-user-stone) - SUS manages the deployment of your configuration files (dotfiles)  ([post](http://blog.cs-syd.eu/super-user-stone/)).
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME
