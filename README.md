@@ -22,6 +22,10 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 * [Shell startup scripts](http://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
 * [Zsh/Bash startup files loading order](http://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
+### Using GNU Stow
+
+* [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+* [Managing dotfiles with GNU Stow](http://taihen.org/managing-dotfiles-with-gnu-stow/)
 
 ### Using vcsh & mr
 
