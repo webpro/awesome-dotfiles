@@ -89,12 +89,14 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ### OS X
 
+* [Cider](https://github.com/msanders/cider) - Cider is a simple wrapper for Homebrew and Homebrew Cask that allows you to save your setup across different machines.
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
 * [kody](https://github.com/jh3y/kody) - Dotfiles runner/manager written in node
 * [osxc](http://osxc.github.io/) - Set of playbook roles made for OS X configuration
 
 ## Miscellaneous
 
+* [A lesson in shortcuts](https://plus.google.com/u/0/+RobPikeTheHuman/posts/R58WgWwN9jp) - How the idea of "hidden" or "dot" files was born, by Rob Pike.
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 * [dotfiles.org](http://dotfiles.org/) - dotfiles.org is a place to upload, download, and share your dotfiles.
 * [OS X Defaults](https://github.com/kevinSuttle/OSXDefaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
