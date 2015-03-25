@@ -14,7 +14,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 ### Tutorials
 
 * [Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config](http://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config)
-* [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449)
+* [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449) - [Part 2](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145)
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 * [conf.d like directories for zsh/bash dotfiles](http://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
 
@@ -27,6 +27,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 * [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 * [Managing dotfiles with GNU Stow](http://taihen.org/managing-dotfiles-with-gnu-stow/)
+* [Managing Dotfile Symlinks with GNU Stow](http://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
 
 ### Using vcsh & mr
 
