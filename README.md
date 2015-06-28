@@ -109,3 +109,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
 * [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
+
+## License
+
+[MIT](http://webpro.mit-license.org)
