@@ -112,4 +112,6 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## License
 
-[MIT](http://webpro.mit-license.org)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Lars Kappert](https://webpro.nl) has waived all copyright and related or neighboring rights to this work.
