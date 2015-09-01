@@ -90,6 +90,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [remote-dotfiles](https://www.npmjs.com/package/remote-dotfiles) - Describe your dotfiles configuration, tuned for and deploy to all your servers.
 * [Super User Stone](https://github.com/NorfairKing/super-user-stone) - SUS manages the deployment of your configuration files (dotfiles)  ([post](http://blog.cs-syd.eu/super-user-stone/)).
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME
+* [yadm](https://github.com/TheLocehiliosan/yadm) - A dotfile management tool with 3 main features: Manages files across systems using a single Git repository. Provides a way to use alternate files on a specific OS or host. Supplies a method of encrypting confidential data so it can safely be stored in your repository.
 
 ### OS X
 
