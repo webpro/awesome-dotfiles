@@ -76,6 +76,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## Tools
 
+* [Alterant](https://github.com/autonomy/alterant) by Andrew Rynhard is a self-contained dotfile manager and lightweight provisioning tool that supports encryption of sensitive data, multiline command execution, and a single file configuration for multiple machines.
 * [Ansible](http://www.ansible.com/home) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using Ansible.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
