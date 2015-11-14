@@ -9,11 +9,11 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 * [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 * [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
 * [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
-* [Dotfile discovery](http://wynnnetherland.com/journal/dotfiles-discovery)
+* [Dotfile discovery](http://wynnnetherland.com/journal/dotfiles-discovery/)
 
 ### Tutorials
 
-* [Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config](http://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config)
+* [Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config](https://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config)
 * [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449) - [Part 2](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145)
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 * [conf.d like directories for zsh/bash dotfiles](http://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
@@ -21,7 +21,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 ### Shell startup
 
 * [Shell startup scripts](http://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
-* [Zsh/Bash startup files loading order](http://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
+* [Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
 ### Using GNU Stow
 
@@ -49,8 +49,8 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 Title | Description | Focus
 :--|:--|:--
 [Bashstrap](https://github.com/barryclark/bashstrap) | Bootstrap for your terminal. A quick way to spruce up OSX terminal. | OS X Terminal, prompt, iTerm.
-[Bash it](https://github.com/revans/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
-[Mathias’s dotfiles](http://mths.be/dotfiles) | .files, including ~/.osx — sensible hacker defaults for OS X | Lots of goodness here, great collaborative community effort.
+[Bash it](https://github.com/Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
+[Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles) | .files, including ~/.osx — sensible hacker defaults for OS X | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux, by Square vimsters. | Vim, tmux. Built for Mac OS X.
 [dev-setup](https://github.com/donnemartin/dev-setup) | Easy-to-understand instructions with automated setup scripts for developer tools and dev-based defaults for Mac OSX. | Developer tools on OS X.
 
@@ -76,7 +76,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## Tools
 
-* [Ansible](http://www.ansible.com/home) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+* [Ansible](http://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using Ansible.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
@@ -101,9 +101,9 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## Miscellaneous
 
-* [A lesson in shortcuts](https://plus.google.com/u/0/+RobPikeTheHuman/posts/R58WgWwN9jp) - How the idea of "hidden" or "dot" files was born, by Rob Pike.
+* [A lesson in shortcuts](https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) - How the idea of "hidden" or "dot" files was born, by Rob Pike.
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
-* [dotfiles.org](http://dotfiles.org/) - dotfiles.org is a place to upload, download, and share your dotfiles.
+* [dotfiles.org](http://www.dotfiles.org) - dotfiles.org is a place to upload, download, and share your dotfiles.
 * [OS X Defaults](https://github.com/kevinSuttle/OSXDefaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
 
 ## Related Lists
