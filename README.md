@@ -81,6 +81,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 * [dotfiles](https://pypi.python.org/pypi/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy.
+* [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
 * [fresh](http://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
