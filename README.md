@@ -104,7 +104,6 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 * [A lesson in shortcuts](https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) - How the idea of "hidden" or "dot" files was born, by Rob Pike.
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
-* [dotfiles.org](http://www.dotfiles.org) - dotfiles.org is a place to upload, download, and share your dotfiles.
 * [OS X Defaults](https://github.com/kevinSuttle/OSXDefaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
 
 ## Related Lists
