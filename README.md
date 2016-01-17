@@ -26,14 +26,14 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 ### Using GNU Stow
 
 * [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
-* [Managing dotfiles with GNU Stow](http://taihen.org/managing-dotfiles-with-gnu-stow/)
+* [Managing dotfiles with GNU Stow](https://taihen.org/managing-dotfiles-with-gnu-stow/)
 * [Managing Dotfile Symlinks with GNU Stow](http://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
 
 ### Using vcsh & mr
 
 * [Manage dotfiles Quickly and Effortlessly](http://www.martin-burger.net/blog/unix-shell/manage-dotfiles-quickly-and-effortlessly/)
 * [Managing dot-files with vcsh and myrepos](http://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html)
-* [Manage dotfiles using vcsh and mr](http://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/)
+* [Manage dotfiles using vcsh and mr](https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/)
 
 ### Using Ansible
 
@@ -115,6 +115,6 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lars Kappert](https://webpro.nl) has waived all copyright and related or neighboring rights to this work.
