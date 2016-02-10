@@ -53,6 +53,7 @@ Title | Description | Focus
 [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles) | .files, including ~/.osx — sensible hacker defaults for OS X | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux, by Square vimsters. | Vim, tmux. Built for Mac OS X.
 [dev-setup](https://github.com/donnemartin/dev-setup) | Easy-to-understand instructions with automated setup scripts for developer tools and dev-based defaults for Mac OSX. | Developer tools on OS X.
+[Kevin's dotfiles](https://github.com/kdeldycke/dotfiles) | An attempt to support both OSX and Kubuntu with the same set of dotfiles. | Python developers working in `vim`.
 
 ### Zsh
 
