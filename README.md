@@ -8,7 +8,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 * [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 * [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
-* [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+* [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 * [Dotfile discovery](http://wynnnetherland.com/journal/dotfiles-discovery/)
 
 ### Tutorials
@@ -27,7 +27,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 * [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 * [Managing dotfiles with GNU Stow](https://taihen.org/managing-dotfiles-with-gnu-stow/)
-* [Managing Dotfile Symlinks with GNU Stow](http://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
+* [Managing Dotfile Symlinks with GNU Stow](https://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
 
 ### Using vcsh & mr
 
@@ -77,7 +77,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 
 ## Tools
 
-* [Ansible](http://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+* [Ansible](https://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using Ansible.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
