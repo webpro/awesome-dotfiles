@@ -88,6 +88,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([post](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+* [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as packages automatically activated during shells or editors startup. There is a wide range of packages already available in the [Official Pearl Hub](https://github.com/pearl-hub).
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 * [remote-dotfiles](https://www.npmjs.com/package/remote-dotfiles) - Describe your dotfiles configuration, tuned for and deploy to all your servers.
 * [Super User Spark](https://github.com/NorfairKing/super-user-spark) - Tool that allows you to manage your beautiful and precious system configuration accross multiple systems and failures ([post](http://cs-syd.eu/posts/2015-09-27-super-user-spark-getting-started)).
