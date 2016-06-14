@@ -66,6 +66,7 @@ Title | Description | Focus
 [holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
 [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
+[Ninrod's dotfiles](https://github.com/ninrod/dotfiles): Ninrod's dotfiles crafted for simplicity, speed and power while working inside the zsh shell.
 
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
