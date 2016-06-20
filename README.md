@@ -26,7 +26,6 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 ### Using GNU Stow
 
 * [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
-* [Managing dotfiles with GNU Stow](https://taihen.org/managing-dotfiles-with-gnu-stow/)
 * [Managing Dotfile Symlinks with GNU Stow](https://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
 
 ### Using vcsh & mr
