@@ -89,8 +89,6 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([post](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
-* [remote-dotfiles](https://www.npmjs.com/package/remote-dotfiles) - Describe your dotfiles configuration, tuned for and deploy to all your servers.
-* [Super User Spark](https://github.com/NorfairKing/super-user-spark) - Tool that allows you to manage your beautiful and precious system configuration accross multiple systems and failures ([post](http://cs-syd.eu/posts/2015-09-27-super-user-spark-getting-started)).
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
 * [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
 
