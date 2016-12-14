@@ -88,6 +88,7 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([post](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+* [.nixpkgs](https://github.com/kamilchm/.nixpkgs) - Use [Nix](https://nixos.org/nix/) to manage user environment (programs + dotfiles).
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
 * [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
