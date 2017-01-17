@@ -74,6 +74,7 @@ There are many more great dotfiles repos out there, each containing their own in
 * [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
 
 Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://www.google.com/#q=site:github.com+.gitconfig).
+Alternative by using github search [.gitconfig in:path](https://github.com/search?utf8=%E2%9C%93&q=.gitconfig+in%3Apath&type=Code&ref=searchresults)
 
 ## Tools
 
