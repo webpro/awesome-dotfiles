@@ -70,10 +70,10 @@ Title | Description | Focus
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
 * [Search GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories)
-* [Google for "dotfiles"](https://www.google.com/#q=dotfiles)
+* [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
 * [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
 
-Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://www.google.com/#q=site:github.com+.gitconfig).
+Tip: search for a filename on GitHub, e.g. [in:path .gitconfig](https://github.com/search?utf8=%E2%9C%93&type=Code&q=in%3Apath+.gitconfig).
 
 ## Tools
 
