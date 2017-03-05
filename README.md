@@ -97,6 +97,7 @@ Tip: search for a filename on GitHub, e.g. [in:path .gitconfig](https://github.c
 * [Cider](https://github.com/msanders/cider) - Cider is a simple wrapper for Homebrew and Homebrew Cask that allows you to save your setup across different machines.
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
 * [kody](https://github.com/jh3y/kody) - Dotfiles runner/manager written in node
+* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
 * [osxc](http://osxc.github.io/) - Set of playbook roles made for OS X configuration
 
 ## Miscellaneous
