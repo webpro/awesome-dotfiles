@@ -98,6 +98,7 @@ Tip: search for a filename on GitHub, e.g. [in:path .gitconfig](https://github.c
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
 * [kody](https://github.com/jh3y/kody) - Dotfiles runner/manager written in node
 * [osxc](http://osxc.github.io/) - Set of playbook roles made for OS X configuration
+* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
 
 ## Miscellaneous
 
