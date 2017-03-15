@@ -17,6 +17,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 * [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449) - [Part 2](https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145)
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 * [conf.d like directories for zsh/bash dotfiles](https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
+* [arch linux for dummies](https://github.com/jieverson/dotfiles/wiki/arch-linux-for-dummies)
 
 ### Shell startup
 
@@ -66,6 +67,7 @@ Title | Description | Focus
 [holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
 [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
+[jieverson's dotfiles](https://github.com/jieverson/dotfiles) | Arch linux tile manager configuration files | bspwm, sxhkd, lemonbuddy, zsh, urxvt, oh-my-zsh.
 
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
