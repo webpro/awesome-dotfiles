@@ -81,6 +81,7 @@ Tip: search for a filename on GitHub, e.g. [in:path .gitconfig](https://github.c
 * [battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using Ansible.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - Tool to manage different versions of your dotfiles on different hosts.
 * [dotfiles](https://pypi.python.org/pypi/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy.
 * [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
 * [fresh](https://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
