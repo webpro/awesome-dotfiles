@@ -6,7 +6,8 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 ### Introduction
 
-* [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+* [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789) ([Lars Kappert](https://github.com/webpro))
+* [Getting started with dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/) ([Dries Vints](https://github.com/driesvints))
 * [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
 * [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 * [Dotfile discovery](https://wynnnetherland.com/journal/dotfiles-discovery/)
@@ -67,6 +68,7 @@ Title | Description | Focus
 [holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
 [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) | The first JavaScript-based dotfiles powered by Grunt. | Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
+[Dries's dotfiles](https://github.com/driesvints/dotfiles) | Simplified approach to dotfiles for macOS with an extensive readme & introduction | Zsh, Oh My Zsh, macOS, Homebrew, Mackup
 
 There are many more great dotfiles repos out there, each containing their own inspiration and gems.
 
