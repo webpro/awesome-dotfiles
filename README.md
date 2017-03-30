@@ -33,7 +33,6 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 ### Using vcsh & mr
 
-* [Manage dotfiles Quickly and Effortlessly](http://www.martin-burger.net/blog/unix-shell/manage-dotfiles-quickly-and-effortlessly/)
 * [Managing dot-files with vcsh and myrepos](http://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html)
 * [Manage dotfiles using vcsh and mr](https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/)
 
