@@ -70,6 +70,7 @@ Title | Description | Focus
 [holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.
 [Dries's dotfiles](https://github.com/driesvints/dotfiles) | Simplified approach to dotfiles for macOS | Zsh, Oh My Zsh, macOS, Homebrew, Mackup
+[Windows' dotfiles](https://github.com/jieverson/dotfiles-win) | oh-my-zsh on Windows 10 | Windows 10 can now officially run native Ubuntu subsystem. How to enable it, Symlink Windows folders, run Windows programs from bash and use zsh instead of bash.
 
 ## Tools
 
@@ -81,7 +82,7 @@ Title | Description | Focus
 * [fresh](https://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-* [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
+* [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 * [SaltStack](https://saltstack.com/) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
