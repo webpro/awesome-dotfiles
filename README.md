@@ -71,6 +71,15 @@ Title | Description | Focus
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.
 [Dries's dotfiles](https://github.com/driesvints/dotfiles) | Simplified approach to dotfiles for macOS | Zsh, Oh My Zsh, macOS, Homebrew, Mackup
 
+### Fish
+
+Title | Description | Focus
+:--|:--|:--
+[oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) | Community Fish framework. | Includes many plugins and themes, with installation, auto-update, and scaffolding tools.
+[paulrish's dotfiles](https://github.com/paulirish/dotfiles) | Abundant dotfiles with a plethora of cool custom functions | Fish, macOS, Homebrew, Custom Shell functions
+[rkalis's dotfiles](https://github.com/rkalis/dotfiles) | Well-maintained dotfiles featuring Fish, repository management and Hammerspoon | Fish, macOS, Homebrew, Repository management, Hammerspoon
+
+
 ## Tools
 
 * [Ansible](https://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
