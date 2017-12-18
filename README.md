@@ -86,6 +86,7 @@ Title | Description | Focus
 * [Ansible](https://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 * [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy.
 * [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
 * [fresh](https://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
@@ -122,7 +123,7 @@ Title | Description | Focus
 * [Bashstrap](https://github.com/barryclark/bashstrap)
 * [battleschool](https://github.com/spencergibb/battleschool)
 * [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles)
-* [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles) 
+* [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles)
 * [kody](https://github.com/jh3y/kody)
 * [osxc](http://osxc.github.io)
 
