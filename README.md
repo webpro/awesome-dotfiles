@@ -19,6 +19,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 * [conf.d like directories for zsh/bash dotfiles](https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
 * [Managing your dotfiles](http://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
+* [Manage Your dotFiles Like a Boss](http://troydm.github.io/blog/2017/02/27/manage-your-dotfiles-like-a-boss/)
 
 ### Shell startup
 
