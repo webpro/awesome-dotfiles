@@ -18,7 +18,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 * [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449) - [Part 2](https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145)
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 * [conf.d like directories for zsh/bash dotfiles](https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
-* [Managing your dotfiles](http://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
+* [Managing your dotfiles](https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
 
 ### Shell startup
 
@@ -29,9 +29,9 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 * [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 * [Managing Dotfile Symlinks with GNU Stow](https://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
-* [Managing dot-files with vcsh and myrepos](http://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html)
+* [Managing dot-files with vcsh and myrepos](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html)
 * [Manage dotfiles using vcsh and mr](https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/)
-* [Dotfiles and dev tools provisioned by Ansible](http://palcu.blogspot.nl/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
+* [Dotfiles and dev tools provisioned by Ansible](http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
 * [Manage a development machine with Ansible](http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible)
 
 ## Find dotfiles repos
