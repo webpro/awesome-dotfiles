@@ -63,6 +63,7 @@ Title | Description | Focus
 Title | Description | Focus
 :--|:--|:--
 [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
+[set-me-up](https://github.com/omares/set-me-up) | set-me-up aims to simplify the dull setup and maintenance of macOS development environments. It does so by automating the process through a collection of dotfiles and shell scripts. | Automated setup & maintenance of developer environments on macOS using rcm and script automation.
 [oh-my-zsh](http://ohmyz.sh/) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
 [Prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 [YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
