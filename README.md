@@ -63,11 +63,11 @@ Title | Description | Focus
 Title | Description | Focus
 :--|:--|:--
 [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
-[oh-my-zsh](http://ohmyz.sh/) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
+[oh-my-zsh](https://ohmyz.sh) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
 [Prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 [YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
 [holman does dotfiles](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
-[antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.
+[antigen](http://antigen.sharats.me) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.
 [Dries's dotfiles](https://github.com/driesvints/dotfiles) | Simplified approach to dotfiles for macOS | Zsh, Oh My Zsh, macOS, Homebrew, Mackup
 [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles) | Dotfiles for the developer happiness | Zsh, Brew, Sublime, Python, Node, Elixir
 
@@ -82,19 +82,19 @@ Title | Description | Focus
 
 ## Tools
 
-* [Ansible](https://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+* [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 * [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 * [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy.
 * [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
-* [fresh](https://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
+* [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
-* [SaltStack](https://saltstack.com/) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
+* [SaltStack](https://saltstack.com) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
 * [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles.
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
 * [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
@@ -108,8 +108,8 @@ Title | Description | Focus
 ## Miscellaneous
 
 * [A lesson in shortcuts](https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) - How the idea of "hidden" or "dot" files was born, by Rob Pike.
-* [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
-* [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
+* [dotfiles.github.io](http://dotfiles.github.io) - Your unofficial guide to dotfiles on GitHub.
+* [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .macos](https://github.com/mathiasbynens/dotfiles#sensible-macos-defaults).
 
 ## Related Lists
 
