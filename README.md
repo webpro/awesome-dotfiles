@@ -85,7 +85,6 @@ Title | Description | Focus
 ## Tools
 
 * [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
-* [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 * [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 * [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy.
@@ -123,6 +122,7 @@ Title | Description | Focus
 
 * [Bashstrap](https://github.com/barryclark/bashstrap)
 * [battleschool](https://github.com/spencergibb/battleschool)
+* [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
 * [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles)
 * [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles)
 * [kody](https://github.com/jh3y/kody)
