@@ -105,7 +105,9 @@ Title | Description | Focus
 
 * [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew.
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
+* [dotty-cli](https://github.com/0x12b/dotty-cli) - CLI using a json config file to manage dotfile deployment and homebrew installs 
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
+
 
 ## Miscellaneous
 
