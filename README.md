@@ -41,7 +41,8 @@ There are many great dotfiles repos out there, each containing their own inspira
 
 Also see:
 
-* [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
+* [DuckDuckGo for "dotfiles"](https://duckduckgo.com/?q=dotfiles)
+* [Google for "dotfiles"](https://www.google.com/search?q=dotfiles)
 * [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
 * Tip: search for a filename on GitHub, e.g. [in:path .gitconfig](https://github.com/search?utf8=%E2%9C%93&type=Code&q=in%3Apath+.gitconfig).
 
@@ -53,6 +54,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 
 Title | Description | Focus
 :--|:--|:--
+[bootstrap-macos](https://github.com/johnwyles/bootstrap-macos) | Bootstrap for macOS (OS X / OSX) and Dotfiles | A simple `sh \| curl` installer setting up the Terminal, macOS settings, Applications, APIs, Programming languages, Shells (bash and zsh), etc.
 [Bash it](https://github.com/Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
 [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles) | Sensible hacker defaults for macOS | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux | Vim, tmux. Built for Mac OS X.
@@ -65,6 +67,7 @@ Title | Description | Focus
 
 Title | Description | Focus
 :--|:--|:--
+[bootstrap-macos](https://github.com/johnwyles/bootstrap-macos) | Bootstrap for macOS (OS X/OSX) and Dotfiles | A simple `sh \| curl` installer setting up the Terminal, macOS settings, Applications, APIs, Programming languages, Shells (bash and zsh), etc.
 [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
 [oh-my-zsh](https://ohmyz.sh) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
 [Prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
@@ -102,7 +105,7 @@ Title | Description | Focus
 * [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
 
 ### macOS
-
+* [bootstrap-macos](https://github.com/johnwyles/bootstrap-macos) - Bootstrap for macOS (OS X/OSX) and Dotfiles with a simple `sh \| curl` installer setting up the Terminal, macOS settings, Applications, APIs, Programming languages, Shells (bash and zsh), etc.
 * [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew.
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
