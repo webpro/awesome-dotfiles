@@ -54,7 +54,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 
 Title | Description | Focus
 :--|:--|:--
-[bootstrap-osx](https://github.com/johnwyles/bootstrap-osx) | Bootstrap for Mac OS X and Dotfiles | A simple `sh \| curl` installer setting up the Terminal, OS X settings, Applications, APIs, Programming languages, Shells (bash and zsh), etc.
+[bootstrap-macos](https://github.com/johnwyles/bootstrap-macos) | Bootstrap for macOS (OS X / OSX) and Dotfiles | A simple `sh \| curl` installer setting up the Terminal, macOS settings, Applications, APIs, Programming languages, Shells (bash and zsh), etc.
 [Bash it](https://github.com/Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
 [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles) | Sensible hacker defaults for macOS | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux | Vim, tmux. Built for Mac OS X.
@@ -67,7 +67,7 @@ Title | Description | Focus
 
 Title | Description | Focus
 :--|:--|:--
-[bootstrap-osx](https://github.com/johnwyles/bootstrap-osx) | Bootstrap for Mac OS X and Dotfiles | A simple `sh \| curl` installer setting up the Terminal, OS X settings, Applications, APIs, Programming languages, Shells (bash and zsh), etc.
+[bootstrap-macos](https://github.com/johnwyles/bootstrap-macos) | Bootstrap for macOS (OS X/OSX) and Dotfiles | A simple `sh \| curl` installer setting up the Terminal, macOS settings, Applications, APIs, Programming languages, Shells (bash and zsh), etc.
 [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
 [oh-my-zsh](https://ohmyz.sh) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
 [Prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
