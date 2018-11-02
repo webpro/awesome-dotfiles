@@ -54,6 +54,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 Title | Description | Focus
 :--|:--|:--
 [Bash it](https://github.com/Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
+[Bootstrap for macOS (OS X / OSX) and Dotfiles](https://github.com/johnwyles/bootstrap-macos) | A set of many encompassing scripts to bootstrap a macOS (OS X / OSX) user environment with applications, application settings, dotfiles, custom masOS (OS X/OSX) settings, and various programming languages, editors (e.g. Atom, Sublime, VSCode), and their settings. This also includes beautification (e.g. color schemes, shell prompts, fonts, etc) settings from both Bash and Zsh using a number of terminals (e.g. Terminal.app, iTerm2, Hyper) settings. This also features a simplified `sh | curl` style installer for those wanting something ready out-of-the-box. | Homebrew, Bash-It, Oh My Zsh, mac OS (OS X/OSX), autocompletion, modern common programming languages.
 [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles) | Sensible hacker defaults for macOS | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux | Vim, tmux. Built for Mac OS X.
 [dev-setup](https://github.com/donnemartin/dev-setup) | Mac OS X development environment setup | Extensive setup of developer tools on OS X.
@@ -65,6 +66,7 @@ Title | Description | Focus
 
 Title | Description | Focus
 :--|:--|:--
+[Bootstrap for macOS (OS X / OSX) and Dotfiles](https://github.com/johnwyles/bootstrap-macos) | A set of many encompassing scripts to bootstrap a macOS (OS X / OSX) user environment with applications, application settings, dotfiles, custom masOS (OS X/OSX) settings, and various programming languages, editors (e.g. Atom, Sublime, VSCode), and their settings. This also includes beautification (e.g. color schemes, shell prompts, fonts, etc) settings from both Bash and Zsh using a number of terminals (e.g. Terminal.app, iTerm2, Hyper) settings. This also features a simplified `sh | curl` style installer for those wanting something ready out-of-the-box. | Homebrew, Bash-It, Oh My Zsh, mac OS (OS X/OSX), autocompletion, modern common programming languages.
 [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).
 [oh-my-zsh](https://ohmyz.sh) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
 [Prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
