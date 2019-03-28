@@ -86,6 +86,7 @@ Title | Description | Focus
 ## Tools
 
 * [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+* [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
 * [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 * [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
