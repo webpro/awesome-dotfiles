@@ -7,7 +7,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 ### Introductions
 
 * [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789) ([L. Kappert](https://github.com/webpro))
-* [Getting started with dotfiles](https://medium.com/@driesvints/getting-started-with-dotfiles-76bf046d035c) ([D. Vints](https://github.com/driesvints))
+* [Getting started with dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/) ([D. Vints](https://github.com/driesvints))
 * [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
 * [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 * [Dotfile discovery](https://wynnnetherland.com/journal/dotfiles-discovery/)
