@@ -78,10 +78,10 @@ Title | Description | Focus
 
 Title | Description | Focus
 :--|:--|:--
+[Fisher](https://github.com/jorgebucaran/fisher) | A package manager for Fish | Extend your shell capabilities, change the look of your prompt and create repeatable configurations across different systems effortlessly.
 [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) | Community Fish framework. | Includes many plugins and themes, with installation, auto-update, and scaffolding tools.
 [Paul's dotfiles](https://github.com/paulirish/dotfiles) | Abundant dotfiles with a plethora of cool custom functions | Fish, macOS, Homebrew, Custom Shell functions
 [rkalis's dotfiles](https://github.com/rkalis/dotfiles) | Well-maintained dotfiles featuring Fish, repository management and Hammerspoon | Fish, macOS, Homebrew, Repository management, Hammerspoon
-
 
 ## Tools
 
@@ -121,6 +121,7 @@ Title | Description | Focus
 * [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
 * [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
+* [Awesome Fish](https://github.com/jorgebucaran/awesome-fish) - Curated list of packages, prompts, and resources for the fish shell.
 
 ## Archive/abandoned projects
 
