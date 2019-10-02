@@ -60,6 +60,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 | [webpro's dotfiles](https://github.com/webpro/dotfiles)             | macOS dotfiles                               | Bash, Homebrew, Brew Cask, Git, Node.js, Hammerspoon.                                                                        |
 | [Overbryd's dotfiles](https://github.com/Overbryd/dotfiles)         | macOS 0-100 bootstrap                        | macOS defaults, Bash, Homebrew, Casks, Git, Vim                                                                              | Straightforward maintenance with a simple Makefile |
 | [rootbeersoup's dotfiles](https://github.com/rootbeersoup/dotfiles) | Effortless Bash, Vim and macOS configuration | A `curl \| sh` installer and a Makefile offer portable and effortless setup for either permanent or temporary configuration. |
+| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice) | Arch linux dotfile bootstrap | Bloatless, often suckless software. Vim config for editing documents in  markdown or latex |
 
 ### Zsh
 
