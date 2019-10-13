@@ -91,6 +91,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in \$HOME easy.
 - [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
+- [emplace](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines using a dotfiles repository.
 - [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish
 - [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 - [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
