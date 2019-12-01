@@ -90,6 +90,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in \$HOME easy.
+- [DotStow](https://github.com/codejamninja/dotstow) - A simple cli to manage and sync dotfiles with git and stow. It keeps track of simultaneous dotfile configurations for multiple environments. It also supports shell autocompletion.
 - [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
 - [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish
 - [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
