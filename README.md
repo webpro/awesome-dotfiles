@@ -30,8 +30,6 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 
 - [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 - [Managing Dotfile Symlinks with GNU Stow](https://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
-- [Managing dot-files with vcsh and myrepos](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html)
-- [Manage dotfiles using vcsh and mr](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/)
 - [Dotfiles and dev tools provisioned by Ansible](http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
 - [Manage a development machine with Ansible](http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible)
 
@@ -56,9 +54,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 | [Bash it](https://github.com/Bash-it/bash-it)                       | Community bash framework.                    | Autocompletion, themes, aliases, custom functions. Well-structured framework.                                                |
 | [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)     | Sensible hacker defaults for macOS           | Lots of goodness here, great collaborative community effort.                                                                 |
 | [Maximum Awesome](https://github.com/square/maximum-awesome)        | Config files for vim and tmux                | Vim, tmux. Built for Mac OS X.                                                                                               |
-| [dev-setup](https://github.com/donnemartin/dev-setup)               | Mac OS X development environment setup       | Extensive setup of developer tools on OS X.                                                                                  |
 | [webpro's dotfiles](https://github.com/webpro/dotfiles)             | macOS dotfiles                               | Bash, Homebrew, Brew Cask, Git, Node.js, Hammerspoon.                                                                        |
-| [Overbryd's dotfiles](https://github.com/Overbryd/dotfiles)         | macOS 0-100 bootstrap                        | macOS defaults, Bash, Homebrew, Casks, Git, Vim                                                                              | Straightforward maintenance with a simple Makefile |
 | [rootbeersoup's dotfiles](https://github.com/rootbeersoup/dotfiles) | Effortless Bash, Vim and macOS configuration | A `curl \| sh` installer and a Makefile offer portable and effortless setup for either permanent or temporary configuration. |
 | [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)         | Arch linux dotfile bootstrap                 | Bloatless, often suckless software. Vim config for editing documents in markdown or latex                                    |
 
@@ -70,7 +66,6 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 | [oh-my-zsh](https://ohmyz.sh)                                 | Community-driven framework for managing your zsh configuration.        | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool. |
 | [Prezto](https://github.com/sorin-ionescu/prezto)             | The configuration framework for Zsh.                                   | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.                                        |
 | [YADR](http://skwp.github.io/dotfiles/)                       | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.                                                                                                              |
-| [holman does dotfiles](https://github.com/holman/dotfiles)    | holman does dotfiles                                                   | Organized well around topics. Author wants it to work for everyone.                                                                                                |
 | [antigen](http://antigen.sharats.me)                          | Plugin manager for zsh, inspired by oh-my-zsh and vundle.              | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.                                |
 | [Dries's dotfiles](https://github.com/driesvints/dotfiles)    | Simplified approach to dotfiles for macOS                              | Zsh, Oh My Zsh, macOS, Homebrew, Mackup                                                                                                                            |
 | [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                                   | Zsh, Brew, Sublime, Python, Node, Elixir                                                                                                                           |
@@ -90,8 +85,6 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-- [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in \$HOME easy.
-- [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
 - [emplace](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines using a dotfiles repository.
 - [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish
 - [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
@@ -101,16 +94,14 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as packages automatically activated during shells or editors startup. There is a wide range of packages already available in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
-- [SaltStack](https://www.saltstack.com) - Intelligent orchestration for the software-defined data center.
 - [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles.
-- [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
 
 ### macOS
 
-- [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew.
 - [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
 - [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
+- [zero](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 
 ## Miscellaneous
 
@@ -122,20 +113,27 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 
 ## Related Lists
 
-- [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [Awesome Fish](https://github.com/jorgebucaran/awesome-fish) - Curated list of packages, prompts, and resources for the fish shell.
+- [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 ## Archive/abandoned projects
 
 - [Bashstrap](https://github.com/barryclark/bashstrap)
 - [battleschool](https://github.com/spencergibb/battleschool)
-- [Bork](https://github.com/mattly/bork) - Bash DSL for config management.
+- [Bork](https://github.com/mattly/bork)
+- [Cider](https://github.com/msanders/cider)
+- [dotfiles](https://github.com/jbernard/dotfiles)
 - [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles)
+- [ellipsis](https://github.com/ellipsis/ellipsis)
+- [holman does dotfiles](https://github.com/holman/dotfiles)
 - [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles)
 - [kody](https://github.com/jh3y/kody)
 - [osxc](http://osxc.github.io)
+- [vcsh](https://github.com/RichiH/vcsh) ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html), [article](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/))
 
 ## License
 
