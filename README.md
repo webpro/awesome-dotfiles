@@ -128,6 +128,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 - [battleschool](https://github.com/spencergibb/battleschool)
 - [Bork](https://github.com/mattly/bork)
 - [Cider](https://github.com/msanders/cider)
+- [dev-setup](https://github.com/donnemartin/dev-setup)
 - [dotfiles](https://github.com/jbernard/dotfiles)
 - [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles)
 - [ellipsis](https://github.com/ellipsis/ellipsis)
