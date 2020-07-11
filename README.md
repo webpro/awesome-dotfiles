@@ -60,7 +60,7 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 | [webpro's dotfiles](https://github.com/webpro/dotfiles)             | macOS dotfiles                               | Bash, Homebrew, Brew Cask, Git, Node.js, Hammerspoon.                                                                        |
 | [Overbryd's dotfiles](https://github.com/Overbryd/dotfiles)         | macOS 0-100 bootstrap                        | macOS defaults, Bash, Homebrew, Casks, Git, Vim                                                                              | Straightforward maintenance with a simple Makefile |
 | [rootbeersoup's dotfiles](https://github.com/rootbeersoup/dotfiles) | Effortless Bash, Vim and macOS configuration | A `curl \| sh` installer and a Makefile offer portable and effortless setup for either permanent or temporary configuration. |
-| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice) | Arch linux dotfile bootstrap | Bloatless, often suckless software. Vim config for editing documents in  markdown or latex |
+| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)         | Arch linux dotfile bootstrap                 | Bloatless, often suckless software. Vim config for editing documents in markdown or latex                                    |
 
 ### Zsh
 
@@ -100,8 +100,8 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 - [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as packages automatically activated during shells or editors startup. There is a wide range of packages already available in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
-- [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
-- [SaltStack](https://www.saltstack.com) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
+- [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
+- [SaltStack](https://www.saltstack.com) - Intelligent orchestration for the software-defined data center.
 - [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles.
 - [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
