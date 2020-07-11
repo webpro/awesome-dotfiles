@@ -2,6 +2,8 @@
 
 A curated list of dotfiles resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+Note that some articles or tools may look old or look old-fashioned, but this usually means they're battle-tested and mature (like dotfiles themselves).
+
 ## Articles
 
 ### Introductions
