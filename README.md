@@ -95,6 +95,7 @@ scripts to manage dotfiles/plugins.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+- [dotstow](https://github.com/codejamninja/dotstow) - Manage dotfiles with stow.
 - [emplace](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines using a dotfiles
   repository.
 - [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish
