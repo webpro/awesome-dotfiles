@@ -93,6 +93,7 @@ scripts to manage dotfiles/plugins.
   task-execution, and multinode orchestration engine.
 - [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+- [dotbare](https://github.com/kazhala/dotbare) -  Manage dotfiles interactively with fzf.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [dotstow](https://github.com/codejamninja/dotstow) - Manage dotfiles with stow.
