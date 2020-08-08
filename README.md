@@ -87,6 +87,13 @@ scripts to manage dotfiles/plugins.
 | [Paul's dotfiles](https://github.com/paulirish/dotfiles) | Abundant dotfiles with a plethora of cool custom functions                     | Fish, macOS, Homebrew, Custom Shell functions                                            |
 | [rkalis's dotfiles](https://github.com/rkalis/dotfiles)  | Well-maintained dotfiles featuring Fish, repository management and Hammerspoon | Fish, macOS, Homebrew, Repository management, Hammerspoon                                |
 
+### Ansible
+
+| Title                                                   | Description                                  | Focus                                                                           |
+| :------------------------------------------------------ | :------------------------------------------- | :------------------------------------------------------------------------------ |
+| [.dots](https://github.com/Addvilz/dots)                | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
+| [sloria's dotfiles](https://github.com/sloria/dotfiles) | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
+
 ## Tools
 
 - [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment,
