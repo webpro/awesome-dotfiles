@@ -78,6 +78,7 @@ scripts to manage dotfiles/plugins.
 | [antigen](http://antigen.sharats.me)                          | Plugin manager for zsh, inspired by oh-my-zsh and vundle.              | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.                                |
 | [Dries's dotfiles](https://github.com/driesvints/dotfiles)    | Simplified approach to dotfiles for macOS                              | Zsh, Oh My Zsh, macOS, Homebrew, Mackup                                                                                                                            |
 | [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                                   | Zsh, Brew, Sublime, Python, Node, Elixir                                                                                                                           |
+| [Jogendra's Dotfiles](https://github.com/jogendra/dotfiles)   | Configuration files for various CLI applications based on macOS         | Zsh, brew, vim, iTerm, MacOS, Git, Xcode |
 
 ### Fish
 
