@@ -94,6 +94,12 @@ scripts to manage dotfiles/plugins.
 | [.dots](https://github.com/Addvilz/dots)                | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
 | [sloria's dotfiles](https://github.com/sloria/dotfiles) | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
 
+### Docker
+
+| Title                                                   | Description                                                                   | Focus                                                                                                                                       |
+| :------------------------------------------------------ | :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| [whilp/world](https://github.com/whilp/world)           | Fully reproducible and automatically contained docker devcontainer for VSCode | Automatic maintenance (with GitHub actions and Renovatebot), security, reproducibility (with Bazel), development (Go, Node/TS, Python, ...) |
+
 ## Tools
 
 - [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment,
