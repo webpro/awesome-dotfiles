@@ -122,6 +122,7 @@ scripts to manage dotfiles and plugins.
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
 - [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
+- [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
   using a shared Git repository and some additional features.
 
