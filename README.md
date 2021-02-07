@@ -15,6 +15,7 @@ Note that some articles or tools may look old or old-fashioned, but this usually
 - [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
 - [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 - [Dotfile discovery](https://wynnnetherland.com/journal/dotfiles-discovery/)
+- [I do Dotfiles!](https://jogendra.dev/i-do-dotfiles)
 
 ### Tutorials
 
