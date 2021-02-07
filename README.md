@@ -41,8 +41,8 @@ Note that some articles or tools may look old or old-fashioned, but this usually
 
 ## Find dotfiles repos
 
-There are many great dotfiles repos out there, each containing their own inspiration and gems. I think one of the best
-ways to go through them is by [searching GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories).
+There are many great dotfiles repos out there, each containing their own inspiration and gems. One way to go through
+them is to [search GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories).
 
 Also see:
 
@@ -54,8 +54,8 @@ Also see:
 ## Example dotfiles repos
 
 A collection of the most popular, well-maintained, and collaborative dotfiles repositories & frameworks. Some projects
-contain just the dotfiles. Others go further by allowing you to easily add your own custom dotfiles, and/or including
-scripts to manage dotfiles/plugins.
+contain just the dotfiles. Others go further by allowing you to easily add your own custom dotfiles, and some include
+scripts to manage dotfiles and plugins.
 
 ### Bash
 
@@ -101,7 +101,7 @@ scripts to manage dotfiles/plugins.
   task-execution, and multinode orchestration engine.
 - [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-- [dotbare](https://github.com/kazhala/dotbare) -  Manage dotfiles interactively with fzf.
+- [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [dotstow](https://github.com/codejamninja/dotstow) - Manage dotfiles with stow.
