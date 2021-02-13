@@ -95,6 +95,12 @@ scripts to manage dotfiles and plugins.
 | [.dots](https://github.com/Addvilz/dots)                | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
 | [sloria's dotfiles](https://github.com/sloria/dotfiles) | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
 
+### Hybrid
+
+| Title                                                   | Description                                  | Focus                                                                           |
+| :------------------------------------------------------ | :------------------------------------------- | :------------------------------------------------------------------------------ |
+| [matbrgz/dotfiles](https://github.com/matbrgz/dotfiles)                | A configurable extensible and future-proof dotfile for my work environment | Lastest Ubuntu & Windows & WSL2  |   
+
 ## Tools
 
 - [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment,
