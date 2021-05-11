@@ -99,6 +99,7 @@ scripts to manage dotfiles and plugins.
 
 - [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment,
   task-execution, and multinode orchestration engine.
+- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, PHP, etc, all through Bash, Zsh, or Fish.
 - [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 - [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
