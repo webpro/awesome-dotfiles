@@ -87,6 +87,7 @@ scripts to manage dotfiles and plugins.
 | [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)   | Community Fish framework.                                                      | Includes many plugins and themes, with installation, auto-update, and scaffolding tools. |
 | [Paul's dotfiles](https://github.com/paulirish/dotfiles) | Abundant dotfiles with a plethora of cool custom functions                     | Fish, macOS, Homebrew, Custom Shell functions                                            |
 | [rkalis's dotfiles](https://github.com/rkalis/dotfiles)  | Well-maintained dotfiles featuring Fish, repository management and Hammerspoon | Fish, macOS, Homebrew, Repository management, Hammerspoon                                |
+| [dalisoft's dotfiles](https://github.com/dalisoft/config/tree/master/dotfiles) | Fish-shell powered dotfiles folder contains minimal required tools and functions to get starting to work within hour | Fish, macOS / Linux |
 
 ### Ansible
 
@@ -94,6 +95,7 @@ scripts to manage dotfiles and plugins.
 | :------------------------------------------------------ | :------------------------------------------- | :------------------------------------------------------------------------------ |
 | [.dots](https://github.com/Addvilz/dots)                | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
 | [sloria's dotfiles](https://github.com/sloria/dotfiles) | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
+| [dalisoft's env](https://github.com/dalisoft/config) | dalisoft's dotfiles as Ansible playbook           | Sets up a full local development environment with few commands on macOS, Linux or Windows              |
 
 ## Tools
 
