@@ -90,10 +90,11 @@ scripts to manage dotfiles and plugins.
 
 ### Ansible
 
-| Title                                                   | Description                                  | Focus                                                                           |
-| :------------------------------------------------------ | :------------------------------------------- | :------------------------------------------------------------------------------ |
-| [.dots](https://github.com/Addvilz/dots)                | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
-| [sloria's dotfiles](https://github.com/sloria/dotfiles) | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
+| Title                                                             | Description                                  | Focus                                                                           |
+| :------------------------------------------------------           | :------------------------------------------- | :------------------------------------------------------------------------------ |
+| [.dots](https://github.com/Addvilz/dots)                          | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
+| [sloria's dotfiles](https://github.com/sloria/dotfiles)           | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
+| [tenhishadow's dotfiles](https://github.com/tenhishadow/dotfiles) | <3 Ansible; CI/CD                            | KISS; symlinks instead of changing files; pipenv script                         |
 
 ## Tools
 
