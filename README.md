@@ -8,11 +8,11 @@ Note that some articles or tools may look old or old-fashioned, but this usually
 
 ### Introductions
 
-- [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+- [Getting started with dotfiles](https://www.webpro.nl/articles/getting-started-with-dotfiles)
   ([L. Kappert](https://github.com/webpro))
 - [Getting started with dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/)
   ([D. Vints](https://github.com/driesvints))
-- [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
+- [Managing your dotfiles](https://www.webpro.nl/articles/managing-your-dotfiles)
 - [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 - [Dotfile discovery](https://wynnnetherland.com/journal/dotfiles-discovery/)
 - [I do Dotfiles!](https://jogendra.dev/i-do-dotfiles)
@@ -101,7 +101,8 @@ scripts to manage dotfiles and plugins.
   task-execution, and multinode orchestration engine.
 - [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-- [comtrya](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux, BSD, macOS, and Windows
+- [comtrya](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
+  BSD, macOS, and Windows
 - [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
