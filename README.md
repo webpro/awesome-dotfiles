@@ -90,10 +90,11 @@ scripts to manage dotfiles and plugins.
 
 ### Ansible
 
-| Title                                                   | Description                                  | Focus                                                                           |
-| :------------------------------------------------------ | :------------------------------------------- | :------------------------------------------------------------------------------ |
-| [.dots](https://github.com/Addvilz/dots)                | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
-| [sloria's dotfiles](https://github.com/sloria/dotfiles) | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
+| Title                                                   | Description                                  | Focus                                                                             |
+| :------------------------------------------------------ | :------------------------------------------- | :-------------------------------------------------------------------------------- |
+| [.dots](https://github.com/Addvilz/dots)                | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible   |
+| [sloria's dotfiles](https://github.com/sloria/dotfiles) | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command                |
+| [frdmn's dotfiles](https://github.com/frdmn/dotfiles)   | frdmn's dotfiles based on Ansible            | Well-maintained macOS workstation setup based on Ansible - complete with CI tests |
 
 ## Tools
 
