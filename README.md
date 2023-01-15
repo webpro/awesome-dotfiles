@@ -26,6 +26,7 @@ Note that some articles or tools may look old or old-fashioned, but this usually
 - [conf.d like directories for zsh/bash dotfiles](https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
 - [Managing your dotfiles](https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
+- [Dotfiles Management](https://mitxela.com/projects/dotfiles_management)
 
 ### Shell startup
 
