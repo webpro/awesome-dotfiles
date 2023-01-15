@@ -107,23 +107,18 @@ scripts to manage dotfiles and plugins.
 - [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-- [dotstow](https://github.com/codejamninja/dotstow) - Manage dotfiles with stow.
-- [emplace](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines using a dotfiles
-  repository.
 - [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish
 - [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases,
   functions, etc) from others into your own configuration files.
 - [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or
   data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-- [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your
-  dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
   packages automatically activated during shells or editors startup. There is a wide range of packages already available
   in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
-- [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within
+- [themer](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
 - [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
@@ -170,9 +165,12 @@ scripts to manage dotfiles and plugins.
 - [Cider](https://github.com/msanders/cider)
 - [dev-setup](https://github.com/donnemartin/dev-setup)
 - [dotfiles](https://github.com/jbernard/dotfiles)
+- [dotstow](https://github.com/clayrisser/dotstow)
 - [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles)
 - [ellipsis](https://github.com/ellipsis/ellipsis)
+- [emplace](https://github.com/tversteeg/emplace)
 - [holman does dotfiles](https://github.com/holman/dotfiles)
+- [homesick](https://github.com/technicalpickles/homesick)
 - [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles)
 - [kody](https://github.com/jh3y/kody)
 - [osxc](http://osxc.github.io)
