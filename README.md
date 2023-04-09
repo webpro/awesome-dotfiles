@@ -93,6 +93,7 @@ scripts to manage dotfiles and plugins.
 | :------------------------------------------------------         | :------------------------------------------- | :------------------------------------------------------------------------------ |
 | [.dots](https://github.com/Addvilz/dots)                        | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
 | [sloria's dotfiles](https://github.com/sloria/dotfiles)         | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
+| [rudenkornk's dotfiles](https://github.com/rudenkornk/dotfiles) | rudenkornk's dotfiles as Ansible roles       | Idempotently configure new system with a single bootstrap command               |
 
 ## Tools
 
