@@ -78,6 +78,7 @@ scripts to manage dotfiles and plugins.
 | [Prezto](https://github.com/sorin-ionescu/prezto)             | The configuration framework for Zsh.                            | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.                                        |
 | [Dries's dotfiles](https://github.com/driesvints/dotfiles)    | Simplified approach to dotfiles for macOS                       | Zsh, Oh My Zsh, macOS, Homebrew, Mackup                                                                                                                            |
 | [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                            | Zsh, Brew, Sublime, Python, Node, Elixir                                                                                                                           |
+| [yutkat's dotfiles](https://github.com/yutkat/dotfiles)       | Well-maintained dotfiles that use CI to test and measure startup speeds. | Zsh, Neovim, Wezterm, swaywm working on Arch/Ubuntu/Fedora Linux.                                                                                   |
 
 ### Fish
 
