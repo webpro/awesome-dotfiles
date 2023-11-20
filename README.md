@@ -1,4 +1,4 @@
-# Awesome dotfiles
+# Awesome Dotfiles [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of dotfiles resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Note that some articles or tools may look old or old-fashioned, but this usually means they're battle-tested and mature
@@ -74,7 +74,7 @@ scripts to manage dotfiles and plugins.
 | [oh-my-zsh](https://ohmyz.sh)                                 | Community-driven framework for managing your zsh configuration.          | Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration                                 |
 | [Prezto](https://github.com/sorin-ionescu/prezto)             | The configuration framework for Zsh.                                     | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. |
 | [Dries's dotfiles](https://github.com/driesvints/dotfiles)    | Simplified approach to dotfiles for macOS                                | Zsh, Oh My Zsh, macOS, Homebrew, Mackup                                                                                     |
-| [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                                     | macos, zsh, brew, vscode, codespaces, python, node, elixir                                                                  |
+| [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                                     | macOS, zsh, brew, vscode, codespaces, python, node, elixir                                                                  |
 | [yutkat's dotfiles](https://github.com/yutkat/dotfiles)       | Well-maintained dotfiles that use CI to test and measure startup speeds. | Zsh, Neovim, Wezterm, swaywm working on Arch/Ubuntu/Fedora Linux.                                                           |
 | [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)   | My dotfiles (deployed by LARBS)                                          | Zsh, vim/nvim, zsf                                                                                                          |
 
@@ -100,19 +100,19 @@ scripts to manage dotfiles and plugins.
 - [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 - [comtrya](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
-  BSD, macOS, and Windows
+  BSD, macOS, and Windows.
 - [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-- [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish
+- [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
 - [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases,
   functions, etc) from others into your own configuration files.
 - [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or
   data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
-  packages automatically activated during shells or editors startup. There is a wide range of packages already available
+  packages automatically activated during shells or editors startup. There is a wide range of packages already available.
   in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
 - [themer](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
@@ -123,8 +123,8 @@ scripts to manage dotfiles and plugins.
 
 ### macOS
 
-- [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
-- [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
+- [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
+- [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 - [zero](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 
 ## Miscellaneous
@@ -132,10 +132,9 @@ scripts to manage dotfiles and plugins.
 - [dotfiles.github.io](https://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 - [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - Directory structure and
   directory contents in Linux distributions.
-- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) -
-  [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
+- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) - [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
 - [A lesson in shortcuts](https://www.reddit.com/r/linux/comments/at05xh/comment/egyj6lr/) - How the idea of "hidden" or
-  "dot" files was born, by Rob Pike (originally posted on Google+)
+  "dot" files was born, by Rob Pike (originally posted on Google+).
 
 ## Related Lists
 
@@ -169,7 +168,7 @@ scripts to manage dotfiles and plugins.
 - [homesick](https://github.com/technicalpickles/homesick)
 - [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles)
 - [kody](https://github.com/jh3y/kody)
-- [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults)
+- [macOS Defaults](https://github.com/kevinSuttle/macOS-Defaults)
 - [osxc](http://osxc.github.io)
 - [vcsh](https://github.com/RichiH/vcsh)
   ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html),
