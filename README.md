@@ -112,8 +112,8 @@ scripts to manage dotfiles and plugins.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
-  packages automatically activated during shells or editors startup. There is a wide range of packages already available.
-  in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
+  packages automatically activated during shells or editors startup. There is a wide range of packages already
+  available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
 - [themer](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
@@ -132,9 +132,10 @@ scripts to manage dotfiles and plugins.
 - [dotfiles.github.io](https://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 - [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - Directory structure and
   directory contents in Linux distributions.
-- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) - [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
-- [A lesson in shortcuts](https://www.reddit.com/r/linux/comments/at05xh/comment/egyj6lr/) - How the idea of "hidden" or
-  "dot" files was born, by Rob Pike (originally posted on Google+).
+- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) -
+  [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
+- [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
+  How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
 ## Related Lists
 
