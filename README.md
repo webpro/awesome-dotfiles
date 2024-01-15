@@ -118,6 +118,8 @@ scripts to manage dotfiles and plugins.
 - [themer](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
 - [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+- [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and
+  directories.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
   using a shared Git repository and some additional features.
 
