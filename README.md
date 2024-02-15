@@ -77,6 +77,7 @@ scripts to manage dotfiles and plugins.
 | [yutkat's dotfiles](https://github.com/yutkat/dotfiles)       | Well-maintained dotfiles that use CI to test and measure startup speeds. | Zsh, Neovim, Wezterm, swaywm working on Arch/Ubuntu/Fedora Linux.                                                           |
 | [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)   | My dotfiles (deployed by LARBS)                                          | Zsh, vim/nvim, zsf                                                                                                          |
 | [2KAbhishek's dots2k](https://github.com/2KAbhishek/dots2k)   | Passionately crafted, extensible dotfiles with multi platform support    | CLI tools at core, with extensions for different platforms (windows/mac/android), editors and window managers               |
+| [Zim](https://github.com/zimfw/zimfw)   | Modular, customizable, and blazing fast Zsh framework    | Zim is a Zsh configuration framework that bundles a plugin manager, useful modules, and a wide variety of themes, without compromising on speed.               |
 
 ### Fish
 
