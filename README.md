@@ -104,6 +104,7 @@ scripts to manage dotfiles and plugins.
 - [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
 - [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+- [envhub](https://github.com/tsirysndr/envhub) - Manage your dotfiles, secrets and packages with ease, define your $HOME as Code 💻 🚀 ✨
 - [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
 - [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases,
   functions, etc) from others into your own configuration files.
