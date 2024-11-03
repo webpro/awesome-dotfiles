@@ -116,6 +116,7 @@ scripts to manage dotfiles and plugins.
   packages automatically activated during shells or editors startup. There is a wide range of packages already
   available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
+- [rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [themer](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
 - [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
