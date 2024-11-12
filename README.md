@@ -48,7 +48,7 @@ Also see:
 - [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
 - [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
 - Tip: search for a filename on GitHub, e.g.
-  [in:path .gitconfig](https://github.com/search?utf8=%E2%9C%93&type=Code&q=in%3Apath+.gitconfig).
+  [path:\*\*/.gitconfig](https://github.com/search?type=code&q=path%3A**%2F.gitconfig).
 
 ## Example dotfiles repos
 
@@ -177,7 +177,7 @@ scripts to manage dotfiles and plugins.
 - [osxc](http://osxc.github.io)
 - [vcsh](https://github.com/RichiH/vcsh)
   ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html),
-  [article](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/))
+  [article](https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/))
 - [YADR](http://skwp.github.io/dotfiles/)
 
 ## License
