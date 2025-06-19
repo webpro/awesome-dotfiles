@@ -35,7 +35,7 @@ Note that some articles or tools may look old or old-fashioned, but this usually
 ### Using specific tools
 
 - [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
-- [Managing Dotfile Symlinks with GNU Stow](https://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
+- [Managing Dotfile Symlinks with GNU Stow](https://spin.atomicobject.com/manage-dotfiles-gnu-stow/)
 - [Dotfiles and dev tools provisioned by Ansible](http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
 
 ## Find dotfiles repos
@@ -67,17 +67,17 @@ scripts to manage dotfiles and plugins.
 
 ### Zsh
 
-| Title                                                         | Description                                                              | Focus                                                                                                                       |
-| :------------------------------------------------------------ | :----------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files                       | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).                                               |
-| [oh-my-zsh](https://ohmyz.sh)                                 | Community-driven framework for managing your zsh configuration.          | Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration                                 |
-| [Prezto](https://github.com/sorin-ionescu/prezto)             | The configuration framework for Zsh.                                     | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. |
-| [Dries's dotfiles](https://github.com/driesvints/dotfiles)    | Simplified approach to dotfiles for macOS                                | Zsh, Oh My Zsh, macOS, Homebrew, Mackup                                                                                     |
-| [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                                     | macOS, zsh, brew, vscode, codespaces, python, node, elixir                                                                  |
-| [yutkat's dotfiles](https://github.com/yutkat/dotfiles)       | Well-maintained dotfiles that use CI to test and measure startup speeds. | Zsh, Neovim, Wezterm, swaywm working on Arch/Ubuntu/Fedora Linux.                                                           |
-| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)   | My dotfiles (deployed by LARBS)                                          | Zsh, vim/nvim, zsf                                                                                                          |
-| [2KAbhishek's dots2k](https://github.com/2KAbhishek/dots2k)   | Passionately crafted, extensible dotfiles with multi platform support    | CLI tools at core, with extensions for different platforms (windows/mac/android), editors and window managers               |
-| [Zim](https://github.com/zimfw/zimfw)   | Modular, customizable, and blazing fast Zsh framework    | Zim is a Zsh configuration framework that bundles a plugin manager, useful modules, and a wide variety of themes, without compromising on speed.               |
+| Title                                                         | Description                                                              | Focus                                                                                                                                            |
+| :------------------------------------------------------------ | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files                       | Zsh, vim, tmux, git, homebrew. Uses [rcm](https://github.com/thoughtbot/rcm).                                                                    |
+| [oh-my-zsh](https://ohmyz.sh)                                 | Community-driven framework for managing your zsh configuration.          | Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration                                                      |
+| [Prezto](https://github.com/sorin-ionescu/prezto)             | The configuration framework for Zsh.                                     | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.                      |
+| [Dries's dotfiles](https://github.com/driesvints/dotfiles)    | Simplified approach to dotfiles for macOS                                | Zsh, Oh My Zsh, macOS, Homebrew, Mackup                                                                                                          |
+| [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                                     | macOS, zsh, brew, vscode, codespaces, python, node, elixir                                                                                       |
+| [yutkat's dotfiles](https://github.com/yutkat/dotfiles)       | Well-maintained dotfiles that use CI to test and measure startup speeds. | Zsh, Neovim, Wezterm, swaywm working on Arch/Ubuntu/Fedora Linux.                                                                                |
+| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)   | My dotfiles (deployed by LARBS)                                          | Zsh, vim/nvim, zsf                                                                                                                               |
+| [2KAbhishek's dots2k](https://github.com/2KAbhishek/dots2k)   | Passionately crafted, extensible dotfiles with multi platform support    | CLI tools at core, with extensions for different platforms (windows/mac/android), editors and window managers                                    |
+| [Zim](https://github.com/zimfw/zimfw)                         | Modular, customizable, and blazing fast Zsh framework                    | Zim is a Zsh configuration framework that bundles a plugin manager, useful modules, and a wide variety of themes, without compromising on speed. |
 
 ### Fish
 
@@ -116,7 +116,8 @@ scripts to manage dotfiles and plugins.
   packages automatically activated during shells or editors startup. There is a wide range of packages already
   available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
-- [rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
+- [rotz](https://github.com/volllly/rotz) - Fully cross-platform dotfile manager and dev environment bootstrapper
+  written in Rust.
 - [themer](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
 - [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
