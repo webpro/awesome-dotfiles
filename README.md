@@ -125,6 +125,7 @@ scripts to manage dotfiles and plugins.
   directories.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
   using a shared Git repository and some additional features.
+- [dots](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple OSs!
 
 ### macOS
 
