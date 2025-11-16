@@ -99,6 +99,7 @@ scripts to manage dotfiles and plugins.
 - [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment,
   task-execution, and multinode orchestration engine.
 - [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+- [check-config](https://github.com/mrijken/check-config) - Check and fix your config global and (repo) local config files.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 - [comtrya](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
   BSD, macOS, and Windows.
