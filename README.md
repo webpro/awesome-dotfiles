@@ -112,6 +112,8 @@ scripts to manage dotfiles and plugins.
   data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
+- [n01d-term](https://github.com/bad-antics/n01d-term) - Cyberpunk terminal toolkit with AI integration, smart aliases,
+  hacking themes, and productivity features for bash/zsh/fish.
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
   packages automatically activated during shells or editors startup. There is a wide range of packages already
   available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
