@@ -111,6 +111,8 @@ scripts to manage dotfiles and plugins.
 - [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or
   data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
+- [kasetto](https://github.com/pivoshenko/kasetto) - Manage and sync AI agent skill configurations
+  (dotfiles for AI coding assistants), written in Rust.
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
   packages automatically activated during shells or editors startup. There is a wide range of packages already
