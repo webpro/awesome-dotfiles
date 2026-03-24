@@ -78,6 +78,7 @@ scripts to manage dotfiles and plugins.
 | [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)   | My dotfiles (deployed by LARBS)                                          | Zsh, vim/nvim, zsf                                                                                                                               |
 | [2KAbhishek's dots2k](https://github.com/2KAbhishek/dots2k)   | Passionately crafted, extensible dotfiles with multi platform support    | CLI tools at core, with extensions for different platforms (windows/mac/android), editors and window managers                                    |
 | [Zim](https://github.com/zimfw/zimfw)                         | Modular, customizable, and blazing fast Zsh framework                    | Zim is a Zsh configuration framework that bundles a plugin manager, useful modules, and a wide variety of themes, without compromising on speed. |
+| [cloudprobe's dotfiles](https://github.com/cloudprobe/dotfiles) | Zero-to-productive dotfiles for macOS — ZSH + Starship + Claude Code    | Zsh, zinit, Starship, Claude Code, Kubernetes, AWS, Terraform, Go                                                                                |
 
 ### Fish
 
