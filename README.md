@@ -89,90 +89,95 @@ scripts to manage dotfiles and plugins.
 | Title                   | Description                                  | Focus                                                                           |
 | :---------------------- | :------------------------------------------- | :------------------------------------------------------------------------------ |
 | [.dots][45]             | New and upgraded dotfiles, now with Ansible! | Completely automated desktop setup, configuration and maintenance using Ansible |
-| [sloria's dotfiles][46] | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
+| [Mac Dev Playbook][46]  | Mac setup and configuration via Ansible      | Full macOS dev machine setup including Homebrew, dotfiles, apps, and OS config  |
+| [sloria's dotfiles][47] | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
 
 ## Tools
 
-- [Ansible][47] - Radically simple configuration-management, application deployment, task-execution, and multinode
+- [Ansible][48] - Radically simple configuration-management, application deployment, task-execution, and multinode
   orchestration engine.
-- [chezmoi][48] - Manage your dotfiles securely across multiple machines.
-- [comtrya][49] - Configuration management for localhost, written in Rust, for Linux, BSD, macOS, and Windows.
-- [dotbot][50] - Tool that bootstraps your dotfiles.
-- [dotdrop][51] - Save your dotfiles once, deploy them everywhere.
-- [dots][52] - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple
+- [chezmoi][49] - Manage your dotfiles securely across multiple machines.
+- [comtrya][50] - Configuration management for localhost, written in Rust, for Linux, BSD, macOS, and Windows.
+- [dotbot][51] - Tool that bootstraps your dotfiles.
+- [dotdrop][52] - Save your dotfiles once, deploy them everywhere.
+- [dotter][53] - A dotfile manager and templater written in Rust.
+- [dots][54] - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple
   OSs!
-- [Fisher][53] - A package manager for Fish.
-- [fresh][54] - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from
+- [Fisher][55] - A package manager for Fish.
+- [fresh][56] - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from
   others into your own configuration files.
-- [GNU Stow][55] - Symlink farm manager which takes distinct packages of software and/or data located in separate
+- [GNU Stow][57] - Symlink farm manager which takes distinct packages of software and/or data located in separate
   directories on the filesystem, and makes them appear to be installed in the same place.
-- [homeshick][56] - Git dotfile synchronizer written in Bash.
-- [mackup][57] - Keep your application settings in sync (macOS/Linux).
-- [OpenBoot][58] - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell
+- [home-manager][58] - Manage a user environment using Nix.
+- [homeshick][59] - Git dotfile synchronizer written in Bash.
+- [lnk][60] - Git-native dotfiles management without extra config.
+- [mackup][61] - Keep your application settings in sync (macOS/Linux).
+- [OpenBoot][62] - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell
   configuration, and macOS preferences via interactive TUI.
 - [rcm][34] - rc file (dotfile) management.
-- [rotz][59] - Fully cross-platform dotfile manager and dev environment bootstrapper written in Rust.
-- [themer][60] - Manage and generate themes across your development tools from within your dotfiles.
-- [toml-bombadil][61] - Templatize and manage your dotfiles.
-- [xdg-ninja][62] - A shell script which checks your $HOME for unwanted files and directories.
-- [yadm][63] - Tool for managing a collection of files across multiple computers, using a shared Git repository and some
+- [rotz][63] - Fully cross-platform dotfile manager and dev environment bootstrapper written in Rust.
+- [themer][64] - Manage and generate themes across your development tools from within your dotfiles.
+- [toml-bombadil][65] - Templatize and manage your dotfiles.
+- [xdg-ninja][66] - A shell script which checks your $HOME for unwanted files and directories.
+- [yadm][67] - Tool for managing a collection of files across multiple computers, using a shared Git repository and some
   additional features.
+- [yolk][68] - Dotfile manager with inline templating via comments, so files stay valid even un-deployed.
 
 ### macOS
 
-- [dockutil][64] - Command line tool for managing dock items.
-- [mas][65] - Mac App Store command line interface.
+- [dockutil][69] - Command line tool for managing dock items.
+- [mas][70] - Mac App Store command line interface.
 
 ## Miscellaneous
 
-- [dotfiles.github.io][66] - Your unofficial guide to dotfiles on GitHub.
-- [Filesystem Hierarchy Standard][67] - Directory structure and directory contents in Linux distributions.
-- [XDG Base Directory Specification][68] - [Summary][69]
-- [A lesson in shortcuts][70] - How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on
+- [dotfiles.github.io][71] - Your unofficial guide to dotfiles on GitHub.
+- [Filesystem Hierarchy Standard][72] - Directory structure and directory contents in Linux distributions.
+- [XDG Base Directory Specification][73] - [Summary][74]
+- [A lesson in shortcuts][75] - How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on
   Google+).
 
 ## Related Lists
 
-- [Awesome Dev Env][71] - Curated list of awesome tools, resources and workflow tips making an awesome development
+- [Awesome Dev Env][76] - Curated list of awesome tools, resources and workflow tips making an awesome development
   environment.
-- [Awesome Fish][72] - Curated list of packages, prompts, and resources for the fish shell.
-- [Awesome Shell][73] - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-- [Awesome Sysadmin][74] - A curated list of amazingly awesome open source sysadmin resources.
-- [Awesome Zsh Plugins][75] - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
-- [Terminals Are Sexy][76] - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [Awesome Fish][77] - Curated list of packages, prompts, and resources for the fish shell.
+- [Awesome Shell][78] - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+- [Awesome Sysadmin][79] - A curated list of amazingly awesome open source sysadmin resources.
+- [Awesome Zsh Plugins][80] - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
+- [Terminals Are Sexy][81] - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 ## Archive/abandoned projects
 
-- [antigen][77]
-- [bashdot][78]
-- [Bashstrap][79]
-- [battleschool][80]
-- [Bork][81]
-- [Cider][82]
-- [dev-setup][83]
-- [dotbare][84]
-- [dotfiles][85]
-- [dotstow][86]
-- [Eduardo's dotfiles][87]
-- [ellipsis][88]
-- [emplace][89]
-- [holman does dotfiles][90]
-- [homesick][91]
-- [Kevin's dotfiles][92]
-- [kody][93]
-- [macOS Defaults][94]
-- [osxc][95]
-- [Pearl][96]
-- [rkalis's dotfiles][97]
-- [vcsh][98] ([article][99], [article][100])
-- [YADR][101]
-- [Zero.sh][102]
+- [antigen][82]
+- [bashdot][83]
+- [Bashstrap][84]
+- [battleschool][85]
+- [Bork][86]
+- [Cider][87]
+- [dev-setup][88]
+- [dotbare][89]
+- [dotfiles][90]
+- [dotstow][91]
+- [Eduardo's dotfiles][92]
+- [ellipsis][93]
+- [emplace][94]
+- [holman does dotfiles][95]
+- [homesick][96]
+- [Kevin's dotfiles][97]
+- [kody][98]
+- [macOS Defaults][99]
+- [osxc][100]
+- [Pearl][101]
+- [rkalis's dotfiles][102]
+- [vcsh][103] ([article][104], [article][105])
+- [YADR][106]
+- [Zero.sh][107]
 
 ## License
 
-[![CC0][104]][103]
+[![CC0][109]][108]
 
-To the extent possible under law, [Lars Kappert][105] has waived all copyright and related or neighboring rights to this
+To the extent possible under law, [Lars Kappert][110] has waived all copyright and related or neighboring rights to this
 work.
 
 [1]: https://awesome.re
@@ -220,63 +225,68 @@ work.
 [43]: https://github.com/oh-my-fish/oh-my-fish
 [44]: https://github.com/paulirish/dotfiles
 [45]: https://github.com/Addvilz/dots
-[46]: https://github.com/sloria/dotfiles
-[47]: https://www.ansible.com
-[48]: https://github.com/twpayne/chezmoi
-[49]: https://github.com/comtrya/comtrya
-[50]: https://github.com/anishathalye/dotbot
-[51]: https://github.com/deadc0de6/dotdrop
-[52]: https://github.com/ulises-jeremias/dotfiles
-[53]: https://github.com/jorgebucaran/fisher
-[54]: https://freshshell.com
-[55]: http://www.gnu.org/software/stow/
-[56]: https://github.com/andsens/homeshick
-[57]: https://github.com/lra/mackup
-[58]: https://github.com/openbootdotdev/openboot
-[59]: https://github.com/volllly/rotz
-[60]: https://github.com/themerdev/themer
-[61]: https://github.com/oknozor/toml-bombadil
-[62]: https://github.com/b3nj5m1n/xdg-ninja
-[63]: https://github.com/TheLocehiliosan/yadm
-[64]: https://github.com/kcrawford/dockutil
-[65]: https://github.com/mas-cli/mas
-[66]: https://dotfiles.github.io/
-[67]: https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
-[68]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
-[69]: https://wiki.archlinux.org/title/XDG_Base_Directory
-[70]: https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp
-[71]: https://github.com/jondot/awesome-devenv
-[72]: https://github.com/jorgebucaran/awsm.fish
-[73]: https://github.com/alebcay/awesome-shell
-[74]: https://github.com/awesome-foss/awesome-sysadmin
-[75]: https://github.com/unixorn/awesome-zsh-plugins
-[76]: https://github.com/k4m4/terminals-are-sexy
-[77]: http://antigen.sharats.me
-[78]: https://github.com/bashdot/bashdot
-[79]: https://github.com/barryclark/bashstrap
-[80]: https://github.com/spencergibb/battleschool
-[81]: https://github.com/mattly/bork
-[82]: https://github.com/msanders/cider
-[83]: https://github.com/donnemartin/dev-setup
-[84]: https://github.com/kazhala/dotbare
-[85]: https://github.com/jbernard/dotfiles
-[86]: https://github.com/clayrisser/dotstow
-[87]: https://github.com/eduardolundgren/dotfiles
-[88]: https://github.com/ellipsis/ellipsis
-[89]: https://github.com/tversteeg/emplace
-[90]: https://github.com/holman/dotfiles
-[91]: https://github.com/technicalpickles/homesick
-[92]: https://github.com/kdeldycke/dotfiles
-[93]: https://github.com/jh3y/kody
-[94]: https://github.com/kevinSuttle/macOS-Defaults
-[95]: http://osxc.github.io
-[96]: https://github.com/pearl-core/pearl
-[97]: https://github.com/rkalis/dotfiles
-[98]: https://github.com/RichiH/vcsh
-[99]: https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html
-[100]: https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/
-[101]: http://skwp.github.io/dotfiles/
-[102]: https://github.com/zero-sh/zero.sh
-[103]: https://creativecommons.org/publicdomain/zero/1.0/
-[104]: https://licensebuttons.net/p/zero/1.0/88x31.png
-[105]: https://www.webpro.nl
+[46]: https://github.com/geerlingguy/mac-dev-playbook
+[47]: https://github.com/sloria/dotfiles
+[48]: https://www.ansible.com
+[49]: https://github.com/twpayne/chezmoi
+[50]: https://github.com/comtrya/comtrya
+[51]: https://github.com/anishathalye/dotbot
+[52]: https://github.com/deadc0de6/dotdrop
+[53]: https://github.com/SuperCuber/dotter
+[54]: https://github.com/ulises-jeremias/dotfiles
+[55]: https://github.com/jorgebucaran/fisher
+[56]: https://freshshell.com
+[57]: http://www.gnu.org/software/stow/
+[58]: https://github.com/nix-community/home-manager
+[59]: https://github.com/andsens/homeshick
+[60]: https://github.com/yarlson/lnk
+[61]: https://github.com/lra/mackup
+[62]: https://github.com/openbootdotdev/openboot
+[63]: https://github.com/volllly/rotz
+[64]: https://github.com/themerdev/themer
+[65]: https://github.com/oknozor/toml-bombadil
+[66]: https://github.com/b3nj5m1n/xdg-ninja
+[67]: https://github.com/TheLocehiliosan/yadm
+[68]: https://github.com/elkowar/yolk
+[69]: https://github.com/kcrawford/dockutil
+[70]: https://github.com/mas-cli/mas
+[71]: https://dotfiles.github.io/
+[72]: https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+[73]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
+[74]: https://wiki.archlinux.org/title/XDG_Base_Directory
+[75]: https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp
+[76]: https://github.com/jondot/awesome-devenv
+[77]: https://github.com/jorgebucaran/awsm.fish
+[78]: https://github.com/alebcay/awesome-shell
+[79]: https://github.com/awesome-foss/awesome-sysadmin
+[80]: https://github.com/unixorn/awesome-zsh-plugins
+[81]: https://github.com/k4m4/terminals-are-sexy
+[82]: http://antigen.sharats.me
+[83]: https://github.com/bashdot/bashdot
+[84]: https://github.com/barryclark/bashstrap
+[85]: https://github.com/spencergibb/battleschool
+[86]: https://github.com/mattly/bork
+[87]: https://github.com/msanders/cider
+[88]: https://github.com/donnemartin/dev-setup
+[89]: https://github.com/kazhala/dotbare
+[90]: https://github.com/jbernard/dotfiles
+[91]: https://github.com/clayrisser/dotstow
+[92]: https://github.com/eduardolundgren/dotfiles
+[93]: https://github.com/ellipsis/ellipsis
+[94]: https://github.com/tversteeg/emplace
+[95]: https://github.com/holman/dotfiles
+[96]: https://github.com/technicalpickles/homesick
+[97]: https://github.com/kdeldycke/dotfiles
+[98]: https://github.com/jh3y/kody
+[99]: https://github.com/kevinSuttle/macOS-Defaults
+[100]: http://osxc.github.io
+[101]: https://github.com/pearl-core/pearl
+[102]: https://github.com/rkalis/dotfiles
+[103]: https://github.com/RichiH/vcsh
+[104]: https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html
+[105]: https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/
+[106]: http://skwp.github.io/dotfiles/
+[107]: https://github.com/zero-sh/zero.sh
+[108]: https://creativecommons.org/publicdomain/zero/1.0/
+[109]: https://licensebuttons.net/p/zero/1.0/88x31.png
+[110]: https://www.webpro.nl
