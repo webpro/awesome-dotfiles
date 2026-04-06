@@ -4,6 +4,7 @@ A curated list of dotfiles resources. Inspired by the [awesome][3] list thing. N
 old or old-fashioned, but this usually means they're battle-tested and mature (like dotfiles themselves). Feel free to
 propose new articles, projects or tools!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for dotfile and configuration management orchestration, automated setup workflows, and multi-agent coordination. MIT licensed.
 ## Articles
 
 ### Introductions
