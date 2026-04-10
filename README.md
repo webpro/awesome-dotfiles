@@ -36,6 +36,7 @@ propose new articles, projects or tools!
 - [Managing Dotfile Symlinks with GNU Stow][25]
 - [Dotfiles and dev tools provisioned by Ansible][26]
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=webpro_awesome-dotfiles) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ## Find dotfiles repos
 
 There are many great dotfiles repos out there, each containing their own inspiration and gems. One way to go through
