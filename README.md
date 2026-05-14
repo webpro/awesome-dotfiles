@@ -33,6 +33,7 @@ propose new articles, projects or tools!
 ### Using specific tools
 
 - [Using GNU Stow to manage your dotfiles][24]
+- [GNU Stow](https://www.gnu.org/software/stow/) - Symlink farm manager which helps manage dotfiles.
 - [Managing Dotfile Symlinks with GNU Stow][25]
 - [Dotfiles and dev tools provisioned by Ansible][26]
 
