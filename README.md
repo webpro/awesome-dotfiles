@@ -96,6 +96,8 @@ scripts to manage dotfiles and plugins.
 
 - [Ansible][51] - Radically simple configuration-management, application deployment, task-execution, and multinode
   orchestration engine.
+- [caifs][114] - Configuration and Installers for Software. A pure Posix shell dotfile manager and installer, inspired
+  by Stow but extended to cater for simultaneous management across OSX, various Linux flavors and containers.
 - [chezmoi][52] - Manage your dotfiles securely across multiple machines.
 - [comtrya][53] - Configuration management for localhost, written in Rust, for Linux, BSD, macOS, and Windows.
 - [dotbot][54] - Tool that bootstraps your dotfiles.
@@ -293,3 +295,4 @@ work.
 [111]: https://creativecommons.org/publicdomain/zero/1.0/
 [112]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [113]: https://www.webpro.nl
+[114]: https://github.com/caifs-org/caifs
