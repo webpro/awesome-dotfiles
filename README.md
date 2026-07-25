@@ -117,6 +117,7 @@ scripts to manage dotfiles and plugins.
 - [rcm][37] - rc file (dotfile) management.
 - [rotz][66] - Fully cross-platform dotfile manager and dev environment bootstrapper written in Rust.
 - [themer][67] - Manage and generate themes across your development tools from within your dotfiles.
+- [Tildr][114] - Manage and reproduce your HOME directory declaratively.
 - [toml-bombadil][68] - Templatize and manage your dotfiles.
 - [xdg-ninja][69] - A shell script which checks your $HOME for unwanted files and directories.
 - [yadm][70] - Tool for managing a collection of files across multiple computers, using a shared Git repository and some
@@ -293,3 +294,4 @@ work.
 [111]: https://creativecommons.org/publicdomain/zero/1.0/
 [112]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [113]: https://www.webpro.nl
+[114]: https://github.com/orbitbits/tildr
