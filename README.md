@@ -94,6 +94,12 @@ scripts to manage dotfiles and plugins.
 | [Mac Dev Playbook][51]  | Mac setup and configuration via Ansible      | Full macOS dev machine setup including Homebrew, dotfiles, apps, and OS config  |
 | [sloria's dotfiles][52] | sloria's dotfiles as Ansible roles           | Sets up a full local development environment with a single command              |
 
+### Development Environment
+
+| Title                       | Description                                                                                         | Focus                                     |
+|:----------------------------|:----------------------------------------------------------------------------------------------------|:------------------------------------------|
+| [dradoaica's dotfiles][116] | A collection of configuration scripts and tools for setting up an efficient development environment | Ubuntu Desktop 26.04 minimal installation |
+
 ## Tools
 
 - [Ansible][53] - Radically simple configuration-management, application deployment, task-execution, and multinode
@@ -297,3 +303,4 @@ work.
 [113]: https://creativecommons.org/publicdomain/zero/1.0/
 [114]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [115]: https://www.webpro.nl
+[116]: https://github.com/dradoaica/dotfiles
