@@ -118,6 +118,8 @@ scripts to manage dotfiles and plugins.
 - [mackup][68] - Keep your application settings in sync (macOS/Linux).
 - [OpenBoot][69] - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell
   configuration, and macOS preferences via interactive TUI.
+- [pro-terminal-setup](https://github.com/mathewjustin/pro-terminal-setup) - Portable Ghostty/zsh terminal setup with
+  Homebrew install, backups, doctor/uninstall commands, and Kubernetes/tmux helpers.
 - [rcm][37] - rc file (dotfile) management.
 - [rotz][70] - Fully cross-platform dotfile manager and dev environment bootstrapper written in Rust.
 - [themer][71] - Manage and generate themes across your development tools from within your dotfiles.
