@@ -86,6 +86,13 @@ scripts to manage dotfiles and plugins.
 | [oh-my-fish][48]      | The Fish Shell Framework                              | Core infrastructure to allow you to install packages to extend/modify your shell |
 | [Paul's dotfiles][49] | paul's fish, bash, git, etc config files. good stuff. | Fish, macOS, Homebrew, Custom Shell functions                                    |
 
+
+### Cross-platform
+
+| Title | Description | Focus |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [marcop135/dotfiles-core][116] | Cross-platform dotfiles for macOS, Windows, Git Bash, and WSL | One POSIX `sh` layer, four shells, manifest-driven symlinks, dry-run installers, bash 3.2 check gate, no extra runtime |
+
 ### Ansible
 
 | Title                   | Description                                  | Focus                                                                           |
@@ -297,3 +304,4 @@ work.
 [113]: https://creativecommons.org/publicdomain/zero/1.0/
 [114]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [115]: https://www.webpro.nl
+[116]: https://github.com/marcop135/dotfiles-core
