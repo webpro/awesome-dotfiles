@@ -210,7 +210,7 @@ work.
 [26]: http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 [27]: https://github.com/search?q=dotfiles&type=Repositories
 [28]: https://www.google.nl/search?q=dotfiles
-[29]: https://wiki.archlinux.org/index.php/Dotfiles
+[29]: https://wiki.archlinux.org/title/Dotfiles
 [30]: https://github.com/search?type=code&q=path%3A**%2F.gitconfig
 [31]: https://github.com/Bash-it/bash-it
 [32]: https://github.com/mathiasbynens/dotfiles
