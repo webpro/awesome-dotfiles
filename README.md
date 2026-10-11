@@ -205,9 +205,9 @@ work.
 [21]: https://mitxela.com/projects/dotfiles_management
 [22]: https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html
 [23]: https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/
-[24]: http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
+[24]: https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
 [25]: https://spin.atomicobject.com/manage-dotfiles-gnu-stow/
-[26]: http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html
+[26]: https://blog.palcu.net/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 [27]: https://github.com/search?q=dotfiles&type=Repositories
 [28]: https://www.google.nl/search?q=dotfiles
 [29]: https://wiki.archlinux.org/title/Dotfiles
@@ -244,7 +244,7 @@ work.
 [60]: https://github.com/ulises-jeremias/dotfiles
 [61]: https://github.com/jorgebucaran/fisher
 [62]: https://freshshell.com
-[63]: http://www.gnu.org/software/stow/
+[63]: https://www.gnu.org/software/stow/
 [64]: https://github.com/nix-community/home-manager
 [65]: https://github.com/andsens/homeshick
 [66]: https://github.com/technicalpickles/homesick
@@ -271,7 +271,7 @@ work.
 [87]: https://github.com/awesome-foss/awesome-sysadmin
 [88]: https://github.com/unixorn/awesome-zsh-plugins
 [89]: https://github.com/k4m4/terminals-are-sexy
-[90]: http://antigen.sharats.me
+[90]: https://antigen.sharats.me
 [91]: https://github.com/bashdot/bashdot
 [92]: https://github.com/barryclark/bashstrap
 [93]: https://github.com/spencergibb/battleschool
@@ -286,7 +286,7 @@ work.
 [102]: https://web.archive.org/web/20260430004416/https://github.com/tversteeg/emplace
 [103]: https://github.com/jh3y/kody
 [104]: https://github.com/kevinSuttle/macOS-Defaults
-[105]: http://osxc.github.io
+[105]: https://osxc.github.io
 [106]: https://github.com/pearl-core/pearl
 [107]: https://github.com/rkalis/dotfiles
 [108]: https://github.com/RichiH/vcsh
