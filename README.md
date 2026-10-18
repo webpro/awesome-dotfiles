@@ -127,6 +127,7 @@ scripts to manage dotfiles and plugins.
 - [yadm][75] - Tool for managing a collection of files across multiple computers, using a shared Git repository and some
   additional features.
 - [yolk][76] - Dotfile manager with inline templating via comments, so files stay valid even un-deployed.
+- [dotfiles-drift][116] - Detects configuration drift in dotfiles across machines, ensuring idempotent setups.
 
 ### macOS
 
@@ -297,3 +298,4 @@ work.
 [113]: https://creativecommons.org/publicdomain/zero/1.0/
 [114]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [115]: https://www.webpro.nl
+[116]: https://github.com/yunaremaia/dotfiles-drift
