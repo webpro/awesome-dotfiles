@@ -106,6 +106,8 @@ scripts to manage dotfiles and plugins.
 - [dotter][59] - A dotfile manager and templater written in Rust.
 - [dots][60] - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple
   OSs!
+- [dudu][116] - Back up a whole dev setup in one command and restore it on a new machine in another: packages,
+  runtimes, dotfiles and terminal, with secrets masked (macOS, Linux and Windows).
 - [Fisher][61] - A package manager for Fish.
 - [fresh][62] - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from
   others into your own configuration files.
@@ -297,3 +299,4 @@ work.
 [113]: https://creativecommons.org/publicdomain/zero/1.0/
 [114]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [115]: https://www.webpro.nl
+[116]: https://github.com/fontnelle/dudu
