@@ -116,6 +116,7 @@ scripts to manage dotfiles and plugins.
 - [homesick][66] - Clone and manage Git-based dotfiles repositories with symlinks.
 - [lnk][67] - Git-native dotfiles management without extra config.
 - [mackup][68] - Keep your application settings in sync (macOS/Linux).
+- [Muster][116] - Local-first CLI, web UI, and MCP server to sync AI agent configs, skills, and age secrets.
 - [OpenBoot][69] - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell
   configuration, and macOS preferences via interactive TUI.
 - [rcm][37] - rc file (dotfile) management.
@@ -297,3 +298,4 @@ work.
 [113]: https://creativecommons.org/publicdomain/zero/1.0/
 [114]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [115]: https://www.webpro.nl
+[116]: https://github.com/oliveralerubio/muster
