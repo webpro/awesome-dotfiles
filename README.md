@@ -78,6 +78,7 @@ scripts to manage dotfiles and plugins.
 | [Luke's voidrice][45]      | My dotfiles (deployed by LARBS)                                                                                     | Zsh, vim/nvim, zsf                                                                                                                               |
 | [2KAbhishek's dots2k][46]  | Passionately crafted, extensible dotfiles with multi platform support                                               | CLI tools at core, with extensions for different platforms (windows/mac/android), editors and window managers                                    |
 | [Zim][47]                  | Modular, customizable, and blazing fast Zsh framework                                                               | Zim is a Zsh configuration framework that bundles a plugin manager, useful modules, and a wide variety of themes, without compromising on speed. |
+| [mokevnin's dotfiles][116] | A whole macOS machine described declaratively in one mise.toml and applied with `mise bootstrap`                    | Zsh, Neovim (LazyVim), Starship, Git, Homebrew packages, tools and dotfile symlinks; CI dry-runs the bootstrap on every change                   |
 
 ### Fish
 
@@ -297,3 +298,4 @@ work.
 [113]: https://creativecommons.org/publicdomain/zero/1.0/
 [114]: https://licensebuttons.net/p/zero/1.0/88x31.png
 [115]: https://www.webpro.nl
+[116]: https://github.com/mokevnin/dotfiles
